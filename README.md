@@ -435,7 +435,6 @@ Key functions:
 
 ## 📚 Additional Resources
 
-- [Blog Post](nitro-enclaves-attestation-blog.md) - Comprehensive guide with detailed explanations
 - [AWS Nitro Enclaves Documentation](https://docs.aws.amazon.com/enclaves/latest/user/nitro-enclave.html)
 - [Attestation Process](https://github.com/aws/aws-nitro-enclaves-nsm-api/blob/main/docs/attestation_process.md)
 
